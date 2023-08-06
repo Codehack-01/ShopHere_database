@@ -1,0 +1,4 @@
+CREATE DATABASE ShopHere
+
+USE ShopHere
+GO
